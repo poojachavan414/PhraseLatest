@@ -1,0 +1,20 @@
+{
+ 
+      "confirmation-page.intro.LoadingMessage": "We are setting everything ready for you, this will only take a few seconds",
+      "confirmation-page.intro.SuccessOuterMessage": "You've created your organisation.",
+      "confirmation-page.intro.SuccessInnerMessage": "You’re now the admin for",
+      "confirmation-page.intro.Error": "We're sorry, something went wrong, please try again in a few minutes",
+      "confirmation-page.intro.FailureMessage": "Sorry, something went wrong, we failed to add your new organization. Please try again at a later time or contact support if this keeps occurring.",
+      "confirmation-page.intro.AdminText": "Admin",
+      "confirmation-page.intro.ButtonText": "Start exploring our products",
+      "confirmation-page.intro.SettingUpTitle" : "We are setting up your organisation now",
+      "confirmation-page.intro.SettingUpText" : "This won't take long, please wait...",
+      "confirmation-page.intro.SetupTitle" : "We’ve set up your organisation",
+      "confirmation-page.intro.SetupText" : "You can proceed as the administrator of",
+      "confirmation-page.intro.SetupSubText": "You will be automatically redirected in 5 seconds. Click",
+      "confirmation-page.intro.clickHere":"here",
+      "confirmation-page.intro.takingLong": "if it is taking too long.",
+      "confirmation-page.intro.StartButtonText" : "Proceed",
+      "confirmation-page.intro.ErrorTitle": "Error"
+   
+}
