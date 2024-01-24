@@ -1,0 +1,22 @@
+{
+  "confirmation-page": {
+    "intro": {
+      "LoadingMessage": "Nog even geduld, we zijn bezig met alles klaar te zetten",
+      "SuccessOuterMessage": "U heeft succesvol een nieuwe organisatie toegevoegd.",
+      "SuccessInnerMessage": "U bent nu de beheerder van",
+      "Error": "Het spijt ons, er is iets misgegaan, gelieve het over een paar minuten opnieuw te proberen",
+      "FailureMessage": "Sorry, er is iets misgelopen, uw organisatie is niet toegevoegd. Gelieve op een later moment opnieuw te proberen of support te contacteren indien het probleem aanhoudt.",
+      "AdminText": "Beheerder",
+      "ButtonText": "Verken nu onze producten",
+      "SettingUpTitle" : "Uw organisatie wordt nu klaargemaakt",
+      "SettingUpText" : "Dit duurt niet lang, even geduld aub...",
+      "SetupTitle" : "Uw organisatie is klaar voor gebruik",
+      "SetupText" : "U kan voortgaan als beheerder van",
+      "SetupSubText" : "U wordt automatisch doorgestuurd na 5 seconden, klik",
+      "clickHere":"hier",
+      "takingLong": "wanneer u niet automatisch wordt doorverwezen.",
+      "StartButtonText" : "Ga verder",
+      "ErrorTitle": "Fout"
+    }
+  }
+}
