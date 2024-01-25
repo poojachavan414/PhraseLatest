@@ -3,11 +3,14 @@ phrase:
   project_id: c23eb5c64f83c716402eb2f0fb62fa19
   push:
     sources:
-    - file: C:\Users\Pooja.Chavan\source\repos\PhraseTrans\en.json
+    - file: /en.json
       params:
         file_format: simple_json
   pull:
     targets:
-    - file: C:\Users\Pooja.Chavan\source\repos\PhraseTrans\fr.json
+    - file: /fr.json
+      params:
+        file_format: simple_json
+    - file: /nl.json
       params:
         file_format: simple_json
