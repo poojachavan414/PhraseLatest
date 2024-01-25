@@ -1,0 +1,13 @@
+phrase:
+  access_token: 631c5e21ac270698ed71752c62ff0ebfe86e786bedf321a26b83e6da051dcd0c
+  project_id: c23eb5c64f83c716402eb2f0fb62fa19
+  push:
+    sources:
+    - file: C:\Users\Pooja.Chavan\source\repos\PhraseTrans\en.json
+      params:
+        file_format: simple_json
+  pull:
+    targets:
+    - file: C:\Users\Pooja.Chavan\source\repos\PhraseTrans\fr.json
+      params:
+        file_format: simple_json
