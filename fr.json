@@ -1,21 +1,18 @@
 {
-
-      "confirmation-page.intro.LoadingMessage": "Nous préparons tout pour vous, cela ne prendra que quelques secondes",
-      "confirmation-page.intro.SuccessOuterMessage": "Vous avez ajouté avec succès une nouvelle organisation.",
-      "confirmation-page.intro.SuccessInnerMessage": "Vous êtes maintenant l'administrateur de",
-      "confirmation-page.intro.Error": "Nous sommes désolés, un problème est survenu. Veuillez réessayer dans quelques minutes",
-      "confirmation-page.intro.FailureMessage": "Désolé, une erreur s'est produite, nous n'avons pas réussi à ajouter votre nouvelle organisation. Veuillez réessayer ultérieurement ou contacter le support si cela continue à se produire",
-      "confirmation-page.intro.AdminText": "Administrateur",
-      "confirmation-page.intro.ButtonText": "Commencez à explorer nos produits",
-      "confirmation-page.intro.SettingUpTitle" : "Nous mettons en place votre organisation maintenant",
-      "confirmation-page.intro.SettingUpText" : "Cela ne prendra pas longtemps, veuillez patienter...",
-      "confirmation-page.intro.SetupTitle" : "Votre organisation est prête à être utilisée",
-      "confirmation-page.intro.SetupText" : " Vous pouvez continuer en tant qu'administrateur de",
-      "confirmation-page.intro.SetupSubText" : "Vous serez redirigé automatiquement après 5 secondes, si vous n'êtes pas redirigé automatiquement, cliquez",
-      "confirmation-page.intro.clickHere":"ici",
-      "confirmation-page.intro.takingLong": "",
-      "confirmation-page.intro.StartButtonText" : "Procédez à",
-      "confirmation-page.intro.ErrorTitle": "Erreur"
-    
-  
+  "confirmation-page.intro.AdminText": "Beheerder",
+  "confirmation-page.intro.ButtonText": "Verken nu onze producten",
+  "confirmation-page.intro.clickHere": "hier",
+  "confirmation-page.intro.Error": "Het spijt ons, er is iets misgegaan, gelieve het over een paar minuten opnieuw te proberen",
+  "confirmation-page.intro.ErrorTitle": "Fout",
+  "confirmation-page.intro.FailureMessage": "Sorry, er is iets misgelopen, uw organisatie is niet toegevoegd. Gelieve op een later moment opnieuw te proberen of support te contacteren indien het probleem aanhoudt.",
+  "confirmation-page.intro.LoadingMessage": "Nog even geduld, we zijn bezig met alles klaar te zetten",
+  "confirmation-page.intro.SettingUpText": "Dit duurt niet lang, even geduld aub...",
+  "confirmation-page.intro.SettingUpTitle": "Uw organisatie wordt nu klaargemaakt",
+  "confirmation-page.intro.SetupSubText": "U wordt automatisch doorgestuurd na 5 seconden, klik",
+  "confirmation-page.intro.SetupText": "U kan voortgaan als beheerder van",
+  "confirmation-page.intro.SetupTitle": "Uw organisatie is klaar voor gebruik",
+  "confirmation-page.intro.StartButtonText": "Ga verder",
+  "confirmation-page.intro.SuccessInnerMessage": "U bent nu de beheerder van",
+  "confirmation-page.intro.SuccessOuterMessage": "U heeft succesvol een",
+  "confirmation-page.intro.takingLong": "wanneer u niet automatisch wordt doorverwezen."
 }
